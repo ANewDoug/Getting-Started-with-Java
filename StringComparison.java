@@ -1,5 +1,3 @@
-package StringComparison;
-
 import java.util.Scanner;
 
 public class JumpAround {
