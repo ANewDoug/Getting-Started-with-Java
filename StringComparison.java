@@ -1,4 +1,4 @@
-package TestingCode;
+package StringComparison;
 
 import java.util.Scanner;
 
